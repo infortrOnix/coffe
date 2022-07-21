@@ -172,3 +172,44 @@ main{
     display: flex;
     justify-content: center;
 }
+
+.main__menu__logo{
+    width: 180px;
+    margin-top: 150px;
+    margin: 0 auto;
+}
+
+.main__menu__logo h1{
+    
+    width: 180px;
+    font-family: 'Merienda One', cursive;
+    color: #333333;
+    font-size: 25px;
+    margin-bottom: 15px;
+
+}
+
+.main__menu__logo img{
+    width: 180px;
+    margin-top: 30px;
+    
+}
+
+.main__menu{
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+.main__menu__item{
+
+    width: 250px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    
+}
